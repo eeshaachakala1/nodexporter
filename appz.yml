@@ -15,4 +15,4 @@ deploy:
   replicas: 1    
     
 properties:
-   revision : 49
+   revision: 50
