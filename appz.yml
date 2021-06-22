@@ -1,7 +1,7 @@
 app:
   name: Node Exporter
   code: NODEEXPORTER
-  notify: aborra@ecloudcontrol.com
+  notify: eachakala@ecloudcontrol.com
     
 build:
   version: 1.1
@@ -11,7 +11,7 @@ build:
   image_template: nodeexporter-1.1
       
 deploy:
-  context: anushab7/DEV
+  context: eeshaachakala1/DEV
   replicas: 1    
     
 properties:
